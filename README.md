@@ -1,1 +1,1 @@
-##Hello this is my first git test
+#This is our first git lesson
